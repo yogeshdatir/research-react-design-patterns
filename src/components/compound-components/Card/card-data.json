@@ -1,0 +1,63 @@
+[
+  {
+    "title": "React Basic Course",
+    "price": {
+      "value": 20,
+      "currency": "dollar"
+    },
+    "catchLine": "Choose this package if you want to get started with React.",
+    "features": [
+      "2 Interactive Self-Paced Workshops",
+      "Full Source Code for All Workshops",
+      "Discord Community Access",
+      "Money Back Guarantee"
+    ],
+    "topics": [
+      "React Fundamentals",
+      "React Hooks"
+    ]
+  },
+  {
+    "title": "React Pro Course",
+    "price": {
+      "value": 30,
+      "currency": "dollar"
+    },
+    "catchLine": "Choose this package if you are ready to commit and get an in-depth professional understanding of React. It includes everything you will need.",
+    "features": [
+      "8 Interactive Self-Paced Workshops",
+      "Best Value ⭐️",
+      "Full Source Code for All Workshops",
+      "Discord Community Access",
+      "Money Back Guarantee"
+    ],
+    "topics": [
+      "React Fundamentals",
+      "React Hooks",
+      "Advanced React Hooks",
+      "Advanced React Patterns",
+      "React Performance",
+      "Testing React Apps"
+    ]
+  },
+  {
+    "title": "React Standard Course",
+    "price": {
+      "value": 25,
+      "currency": "dollar"
+    },
+    "catchLine": "Choose this package if you want a solid understanding of how to use React.",
+    "features": [
+      "4 Interactive Self-Paced Workshops",
+      "Full Source Code for All Workshops",
+      "Discord Community Access",
+      "Money Back Guarantee"
+    ],
+    "topics": [
+      "React Fundamentals",
+      "React Hooks",
+      "Advanced React Hooks",
+      "Advanced React Patterns"
+    ]
+  }
+]
